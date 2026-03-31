@@ -1,2 +1,1 @@
-git test
-new some message
+1
